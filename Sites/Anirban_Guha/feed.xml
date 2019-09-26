@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:5998A720-8DDB-4A85-A5FC-7455E9110B41</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-09-25T19:50:14+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:96B22E03-0ED6-4A27-A566-64309FDDE623</id>
+  <title>Anirban Guha</title>
+  <title xmlns="urn:iweb:">Anirban Guha</title>
+  <in-navbar xmlns="urn:iweb:">96B22E03-0ED6-4A27-A566-64309FDDE623</in-navbar>
+  <link rel="alternate" href="Anirban_Guha.html"/>
+  <updated>2019-09-25T19:50:14.001+01:00</updated>
+  <content>Anirban Guha</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0D9EE2BA-D9B9-42B1-90FD-A7377D86A7A0</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">0D9EE2BA-D9B9-42B1-90FD-A7377D86A7A0</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2019-09-25T19:50:14.002+01:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7821F39C-9372-493B-AD2C-CBDE0BD766F4</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">7821F39C-9372-493B-AD2C-CBDE0BD766F4</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2019-09-25T19:50:14.003+01:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:888C7A76-0DA3-4EB4-B622-05FB1B2F782D</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">888C7A76-0DA3-4EB4-B622-05FB1B2F782D</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2019-09-25T19:50:14.004+01:00</updated>
+  <content>Publications</content>
+ </entry>
+</feed>
